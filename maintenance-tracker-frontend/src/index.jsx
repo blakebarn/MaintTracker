@@ -7,12 +7,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>
 );
-```
 
-Commit it.
-
----
-
-**File 2: Click "Create a new file" and type:**
-```
-maintenance-tracker-frontend/src/App.jsx
